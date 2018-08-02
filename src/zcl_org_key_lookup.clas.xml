@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_ORG_KEY_LOOKUP</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Org key lookup for EC replicaton</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <CLSFINAL>X</CLSFINAL>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ORG_KEY_LOOKUP</CLSNAME>
+     <CMPNAME>C_EN</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Language Key</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ORG_KEY_LOOKUP</CLSNAME>
+     <CMPNAME>C_ORG_TYPE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Object Type</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ORG_KEY_LOOKUP</CLSNAME>
+     <CMPNAME>C_PLVAR_01</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Plan Version</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ORG_KEY_LOOKUP</CLSNAME>
+     <CMPNAME>READ</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>read org key</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
