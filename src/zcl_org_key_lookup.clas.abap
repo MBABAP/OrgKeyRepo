@@ -5,7 +5,7 @@ class ZCL_ORG_KEY_LOOKUP definition
 
 public section.
 
-  methods READ
+  class-methods READ
     importing
       !IT_P0001 type P0001
     exporting
